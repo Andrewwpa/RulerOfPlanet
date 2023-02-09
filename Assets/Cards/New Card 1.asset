@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a4589e834fdca48a760ac2fc344ad1, type: 3}
+  m_Name: New Card 1
+  m_EditorClassIdentifier: 
+  cardID: 2
+  cardSprite: {fileID: 0}
+  sprite: 0
+  isMouseOver: 0
+  upText: {fileID: 0}
+  downText: {fileID: 0}
+  downText1: {fileID: 0}
